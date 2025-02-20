@@ -1,0 +1,342 @@
+[
+    {
+        "input": "What is Machine Learning?",
+        "response": "Machine Learning (ML) is a branch of Artificial Intelligence that allows systems to learn and make decisions from data without explicit programming."
+    },
+    {
+        "input": "Explain supervised learning.",
+        "response": "Supervised learning is an ML technique where the model is trained on labeled data, meaning input-output pairs are provided for learning."
+    },
+    {
+        "input": "What is deep learning?",
+        "response": "Deep learning is a subset of ML that uses artificial neural networks with multiple layers to extract features and learn patterns in data."
+    },
+    {
+        "input": "What is reinforcement learning?",
+        "response": "Reinforcement learning is a type of ML where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties."
+    },
+    {
+        "input": "What are neural networks?",
+        "response": "Neural networks are computing models inspired by the human brain, consisting of layers of interconnected neurons used for tasks like classification and regression."
+    },
+    {
+        "input": "What is natural language processing?",
+        "response": "Natural Language Processing (NLP) is a field of AI that focuses on enabling machines to understand, interpret, and generate human language."
+    },
+    {
+        "input": "Explain unsupervised learning.",
+        "response": "Unsupervised learning is an ML technique where the model is trained on unlabeled data and tries to identify patterns and relationships."
+    },
+    {
+        "input": "What is a decision tree?",
+        "response": "A decision tree is a machine learning model that splits data into branches based on feature values, used for classification and regression."
+    },
+    {
+        "input": "What is a random forest?",
+        "response": "Random forest is an ensemble learning method that combines multiple decision trees to improve accuracy and reduce overfitting."
+    },
+    {
+        "input": "What is gradient boosting?",
+        "response": "Gradient boosting is an ensemble technique that builds models sequentially, improving weak learners by correcting previous errors."
+    },
+    {
+        "input": "What is an activation function in neural networks?",
+        "response": "An activation function determines the output of a neuron in a neural network, introducing non-linearity to enable learning complex patterns."
+    },
+    {
+        "input": "What is backpropagation?",
+        "response": "Backpropagation is an algorithm for training neural networks by propagating errors backward and updating weights to minimize loss."
+    },
+    {
+        "input": "What is a convolutional neural network?",
+        "response": "A Convolutional Neural Network (CNN) is a type of deep learning model used for image recognition and processing tasks."
+    },
+    {
+        "input": "What is a recurrent neural network?",
+        "response": "A Recurrent Neural Network (RNN) is a type of neural network that processes sequential data by maintaining memory of past inputs."
+    },
+    {
+        "input": "What is transfer learning?",
+        "response": "Transfer learning is a technique where a pre-trained model is adapted to a new but related task to improve efficiency and accuracy."
+    },
+    {
+        "input": "What is feature engineering?",
+        "response": "Feature engineering is the process of transforming raw data into meaningful features that improve the performance of machine learning models."
+    },
+    {
+        "input": "What is data augmentation?",
+        "response": "Data augmentation is a technique used to increase the size of a dataset by applying transformations like rotation, flipping, and scaling."
+    },
+    {
+        "input": "What is hyperparameter tuning?",
+        "response": "Hyperparameter tuning is the process of optimizing model parameters to achieve the best performance."
+    },
+    {
+        "input": "What is overfitting?",
+        "response": "Overfitting occurs when a model learns noise in training data instead of patterns, leading to poor generalization on new data."
+    },
+    {
+        "input": "What is underfitting?",
+        "response": "Underfitting occurs when a model is too simple and fails to capture patterns in the data, leading to poor performance."
+    },
+    {
+        "input": "What is dropout in neural networks?",
+        "response": "Dropout is a regularization technique used in neural networks to prevent overfitting by randomly deactivating neurons during training."
+    },
+    {
+        "input": "What is batch normalization?",
+        "response": "Batch normalization is a technique that normalizes inputs within a neural network layer to speed up training and improve performance."
+    },
+    {
+        "input": "What is a learning rate in ML?",
+        "response": "The learning rate is a hyperparameter that controls the step size when updating model weights during training."
+    },
+    {
+        "input": "What is loss function?",
+        "response": "A loss function measures how well a model's predictions match actual values and helps guide optimization."
+    },
+    {
+        "input": "What is an optimizer in ML?",
+        "response": "An optimizer is an algorithm used to update model parameters in order to minimize loss and improve performance."
+    },
+    {
+        "input": "What is cross-validation?",
+        "response": "Cross-validation is a technique used to assess a model's performance by splitting data into multiple training and validation sets."
+    },
+    {
+        "input": "What is precision in ML?",
+        "response": "Precision is a metric that measures the proportion of correctly predicted positive cases among all predicted positive cases."
+    },
+    {
+        "input": "What is recall in ML?",
+        "response": "Recall is a metric that measures the proportion of actual positive cases correctly identified by a model."
+    },
+    {
+        "input": "What is F1-score?",
+        "response": "The F1-score is a harmonic mean of precision and recall, balancing both metrics for evaluating model performance."
+    },
+    {
+        "input": "What is ROC curve?",
+        "response": "A ROC curve is a graphical representation of a model's ability to distinguish between classes across different thresholds."
+    },
+    {
+        "input": "What is AUC-ROC?",
+        "response": "AUC-ROC is a metric that evaluates a model's ability to classify data correctly by measuring the area under the ROC curve."
+    },
+    {
+        "input": "What is word embedding?",
+        "response": "Word embedding is a technique that represents words as dense numerical vectors in continuous vector space for NLP tasks."
+    },
+    {
+        "input": "What is a transformer model?",
+        "response": "A transformer model is a deep learning architecture that uses self-attention mechanisms to process sequential data efficiently."
+    },
+    {
+        "input": "What is BERT?",
+        "response": "BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model for NLP tasks with bidirectional context understanding."
+    },
+    {
+        "input": "What is GPT?",
+        "response": "GPT (Generative Pre-trained Transformer) is an NLP model designed for text generation, trained on large datasets using unsupervised learning."
+    },
+    {
+        "input": "What is text classification?",
+        "response": "Text classification is an NLP task that involves assigning predefined categories to text documents or messages."
+    },
+    {
+        "input": "What is sentiment analysis?",
+        "response": "Sentiment analysis is an NLP technique used to determine the sentiment or emotion expressed in a piece of text."
+    },
+    {
+        "input": "What is topic modeling?",
+        "response": "Topic modeling is an NLP technique that identifies abstract topics present in a collection of documents."
+    },
+    {
+        "input": "What is tokenization in NLP?",
+        "response": "Tokenization is the process of breaking text into individual words or phrases to facilitate NLP processing."
+    },
+    {
+        "input": "What is stemming?",
+        "response": "Stemming is an NLP technique that reduces words to their root forms by removing suffixes."
+    },
+    {
+        "input": "What is lemmatization?",
+        "response": "Lemmatization is an NLP technique that reduces words to their base form using linguistic rules."
+    },
+    {
+        "input": "What is Bag-of-Words?",
+        "response": "Bag-of-Words is an NLP technique that represents text as a set of word frequencies, ignoring grammar and order."
+    },
+    {
+        "input": "What is an array?",
+        "response": "An array is a data structure that stores elements of the same type in a contiguous memory location, allowing fast access via indexing."
+    },
+    {
+        "input": "What is a linked list?",
+        "response": "A linked list is a linear data structure where elements, called nodes, are linked using pointers."
+    },
+    {
+        "input": "What is the difference between an array and a linked list?",
+        "response": "Arrays have fixed sizes and provide fast access via indexing, whereas linked lists allow dynamic memory allocation and efficient insertions and deletions."
+    },
+    {
+        "input": "What are the types of linked lists?",
+        "response": "The types include singly linked lists, doubly linked lists, and circular linked lists."
+    },
+    {
+        "input": "What is a stack?",
+        "response": "A stack is a LIFO (Last In, First Out) data structure that allows push and pop operations on one end."
+    },
+    {
+        "input": "What is a queue?",
+        "response": "A queue is a FIFO (First In, First Out) data structure where elements are added at the rear and removed from the front."
+    },
+    {
+        "input": "What is a priority queue?",
+        "response": "A priority queue is a data structure where each element has a priority, and elements with higher priority are served before lower-priority ones."
+    },
+    {
+        "input": "What is a deque?",
+        "response": "A deque (double-ended queue) allows insertion and deletion from both ends."
+    },
+    {
+        "input": "What is a hash table?",
+        "response": "A hash table is a data structure that stores key-value pairs using a hash function for fast lookups."
+    },
+    {
+        "input": "What is a binary tree?",
+        "response": "A binary tree is a hierarchical data structure where each node has at most two children."
+    },
+    {
+        "input": "What is a binary search tree (BST)?",
+        "response": "A BST is a binary tree where left children are smaller and right children are greater than the parent node."
+    },
+    {
+        "input": "What is tree traversal?",
+        "response": "Tree traversal refers to visiting all nodes in a tree using methods like in-order, pre-order, and post-order traversal."
+    },
+    {
+        "input": "What is a balanced binary tree?",
+        "response": "A balanced binary tree maintains a height difference of at most one between its left and right subtrees."
+    },
+    {
+        "input": "What is an AVL tree?",
+        "response": "An AVL tree is a self-balancing binary search tree where the difference between heights of left and right subtrees is at most one."
+    },
+    {
+        "input": "What is a red-black tree?",
+        "response": "A red-black tree is a self-balancing binary search tree where nodes are colored red or black to maintain balance."
+    },
+    {
+        "input": "What is a graph?",
+        "response": "A graph is a collection of nodes (vertices) and edges connecting them."
+    },
+    {
+        "input": "What are the types of graphs?",
+        "response": "Graphs can be directed or undirected, weighted or unweighted, cyclic or acyclic."
+    },
+    {
+        "input": "What is BFS (Breadth-First Search)?",
+        "response": "BFS is a graph traversal algorithm that explores nodes level by level using a queue."
+    },
+    {
+        "input": "What is DFS (Depth-First Search)?",
+        "response": "DFS is a graph traversal algorithm that explores as far as possible along each branch before backtracking."
+    },
+    {
+        "input": "What is a spanning tree?",
+        "response": "A spanning tree is a subgraph of a graph that connects all vertices with minimal edges and no cycles."
+    },
+    {
+        "input": "What is Kruskal\u2019s algorithm?",
+        "response": "Kruskal\u2019s algorithm finds the minimum spanning tree of a graph by selecting edges in increasing weight order."
+    },
+    {
+        "input": "What is Prim\u2019s algorithm?",
+        "response": "Prim\u2019s algorithm finds the minimum spanning tree by growing the tree from a starting node."
+    },
+    {
+        "input": "What is Dijkstra\u2019s algorithm?",
+        "response": "Dijkstra\u2019s algorithm finds the shortest path from a source node to all other nodes in a graph with non-negative weights."
+    },
+    {
+        "input": "What is a heap?",
+        "response": "A heap is a complete binary tree where the parent node is either greater (max heap) or smaller (min heap) than its children."
+    },
+    {
+        "input": "What is a trie?",
+        "response": "A trie is a tree-like data structure used for storing strings and efficient prefix searching."
+    },
+    {
+        "input": "What is dynamic programming?",
+        "response": "Dynamic programming is an optimization technique that solves problems by breaking them into overlapping subproblems and storing solutions."
+    },
+    {
+        "input": "What is a segment tree?",
+        "response": "A segment tree is a tree structure used for efficient range queries and updates."
+    },
+    {
+        "input": "What is a Fenwick tree?",
+        "response": "A Fenwick tree (binary indexed tree) is used for efficient prefix sum queries."
+    },
+    {
+        "input": "What is the difference between BFS and DFS?",
+        "response": "BFS explores nodes level by level using a queue, while DFS explores deep using recursion or a stack."
+    },
+    {
+        "input": "What is Floyd-Warshall algorithm?",
+        "response": "The Floyd-Warshall algorithm finds shortest paths between all pairs of nodes in a graph."
+    },
+    {
+        "input": "What is Bellman-Ford algorithm?",
+        "response": "The Bellman-Ford algorithm finds the shortest path from a source node, even with negative weights."
+    },
+    {
+        "input": "What is a topological sort?",
+        "response": "Topological sorting orders nodes in a directed acyclic graph based on dependencies."
+    },
+    {
+        "input": "What is a LRU cache?",
+        "response": "An LRU (Least Recently Used) cache stores a fixed number of items and removes the least recently accessed one when full."
+    },
+    {
+        "input": "What is a circular linked list?",
+        "response": "A circular linked list is a linked list where the last node points back to the first node."
+    },
+    {
+        "input": "What is a doubly linked list?",
+        "response": "A doubly linked list is a linked list where each node has pointers to both its previous and next nodes."
+    },
+    {
+        "input": "What is a disjoint set?",
+        "response": "A disjoint set is a data structure that tracks a partition of elements into disjoint subsets, useful for union-find operations."
+    },
+    {
+        "input": "What is hashing?",
+        "response": "Hashing is a technique to map data to a fixed-size table using a hash function."
+    },
+    {
+        "input": "What is load factor in hashing?",
+        "response": "Load factor is the ratio of stored elements to the total number of slots in a hash table."
+    },
+    {
+        "input": "What is linear probing in hashing?",
+        "response": "Linear probing is a collision resolution method where sequential slots are checked for an empty location."
+    },
+    {
+        "input": "What is quadratic probing?",
+        "response": "Quadratic probing resolves collisions by checking slots at increasing quadratic distances."
+    },
+    {
+        "input": "What is separate chaining?",
+        "response": "Separate chaining resolves hash collisions by maintaining a linked list at each index."
+    },
+    {
+        "input": "What is an adjacency matrix?",
+        "response": "An adjacency matrix is a 2D array representation of a graph where rows and columns represent vertices."
+    },
+    {
+        "input": "What is an adjacency list?",
+        "response": "An adjacency list represents a graph using a list where each node has a list of its adjacent nodes."
+    }
+]
