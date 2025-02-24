@@ -12,7 +12,7 @@ This project implements automated script generation using transformer-based mach
 ├── train.py               # Script to train the chatbot model
 ├── app.py                 # Flask API to serve the model
 ├── requirements.txt       # Dependencies
-├── frontend/              # React frontend for the chatbot
+├── frontend/ https://github.com/vikas83pal/Automated-Script-Generation-UI             # React frontend for the chatbot
 └── README.md              # Project documentation
 ```
 
