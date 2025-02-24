@@ -8,12 +8,12 @@ This project implements automated script generation using transformer-based mach
 
 ## Project Structure
 ```
-├── dataset-gpt.json       # Training dataset
-├── train.py               # Script to train the chatbot model
-├── app.py                 # Flask API to serve the model
-├── requirements.txt       # Dependencies
+├── dataset-gpt.json                                                                   # Training dataset
+├── train.py                                                                           # Script to train the chatbot model
+├── app.py                                                                             # Flask API to serve the model
+├── requirements.txt                                                                   # Dependencies
 ├── frontend/ https://github.com/vikas83pal/Automated-Script-Generation-UI             # React frontend for the chatbot
-└── README.md              # Project documentation
+└── README.md                                                                          # Project documentation
 ```
 
 ## Setup and Installation
