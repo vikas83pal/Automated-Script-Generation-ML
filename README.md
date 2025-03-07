@@ -102,12 +102,10 @@ ngrok http 8000
    !git commit -m "Initial commit"
    !git push origin main
    ```
+## Screen Shots
+
 
 ## Vist the below link to see the userInterface
-
 ```
-
-![image](https://github.com/user-attachments/assets/af8a4a55-3f1d-470c-b620-7b0b5200fab3)
-
-
+https://huggingface.co/spaces/vikas83/bert-text-generator
 ---
