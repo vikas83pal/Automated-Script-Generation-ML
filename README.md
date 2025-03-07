@@ -28,11 +28,12 @@ The model is deployed on Hugging Face Spaces using Gradio, which provides a user
    - The model API is available for integration with external applications like a React frontend.
 
 ## Screenshots
-![images](WhatsApp Image 2025-03-07 at 17.52.22_fb2acb05.jpg)
-![images](WhatsApp Image 2025-03-07 at 17.52.20_916a95df.jpg)
-![images](Screenshot 2025-03-07 180743.png)
-![images](Screenshot 2025-03-07 181039.png)
-![images](Screenshot 2025-03-07 181135.png)
+![Screenshot 1](WhatsApp-Image-2025-03-07-at-17.52.22_fb2acb05.jpg)
+![Screenshot 2](WhatsApp-Image-2025-03-07-at-17.52.20_916a95df.jpg)
+![Screenshot 3](Screenshot-2025-03-07-180743.png)
+![Screenshot 4](Screenshot-2025-03-07-181039.png)
+![Screenshot 5](Screenshot-2025-03-07-181135.png)
+
 
 ## Visit the Web Interface
 Click the link below to interact with the AI script generator:
